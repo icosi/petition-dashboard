@@ -1,0 +1,4027 @@
+{
+  "petition": {
+    "id": "stop-deep-sea-mining-eu",
+    "title": "Stop Deep Sea Mining in EU Waters",
+    "description": "We call on EU institutions to ban deep-sea mining in European waters and support sustainable alternatives.",
+    "goal": 75000,
+    "created_at": "2026-01-15",
+    "status": "active",
+    "url": "https://example.wemove.eu/stop-deep-sea-mining"
+  },
+  "signatures": [
+    {
+      "date": "2026-01-15",
+      "country": "DE",
+      "source": "website",
+      "count": 195
+    },
+    {
+      "date": "2026-01-15",
+      "country": "FR",
+      "source": "social",
+      "count": 162
+    },
+    {
+      "date": "2026-01-15",
+      "country": "IT",
+      "source": "email",
+      "count": 215
+    },
+    {
+      "date": "2026-01-15",
+      "country": "ES",
+      "source": "email",
+      "count": 174
+    },
+    {
+      "date": "2026-01-15",
+      "country": "PL",
+      "source": "social",
+      "count": 61
+    },
+    {
+      "date": "2026-01-15",
+      "country": "NL",
+      "source": "email",
+      "count": 63
+    },
+    {
+      "date": "2026-01-15",
+      "country": "BE",
+      "source": "partner",
+      "count": 77
+    },
+    {
+      "date": "2026-01-15",
+      "country": "PT",
+      "source": "website",
+      "count": 41
+    },
+    {
+      "date": "2026-01-15",
+      "country": "AT",
+      "source": "email",
+      "count": 57
+    },
+    {
+      "date": "2026-01-15",
+      "country": "SE",
+      "source": "social",
+      "count": 54
+    },
+    {
+      "date": "2026-01-15",
+      "country": "RO",
+      "source": "website",
+      "count": 52
+    },
+    {
+      "date": "2026-01-15",
+      "country": "GR",
+      "source": "social",
+      "count": 22
+    },
+    {
+      "date": "2026-01-15",
+      "country": "DK",
+      "source": "website",
+      "count": 42
+    },
+    {
+      "date": "2026-01-15",
+      "country": "IE",
+      "source": "partner",
+      "count": 8
+    },
+    {
+      "date": "2026-01-15",
+      "country": "CZ",
+      "source": "website",
+      "count": 17
+    },
+    {
+      "date": "2026-01-15",
+      "country": "HU",
+      "source": "email",
+      "count": 16
+    },
+    {
+      "date": "2026-01-16",
+      "country": "DE",
+      "source": "partner",
+      "count": 289
+    },
+    {
+      "date": "2026-01-16",
+      "country": "FR",
+      "source": "website",
+      "count": 110
+    },
+    {
+      "date": "2026-01-16",
+      "country": "IT",
+      "source": "website",
+      "count": 202
+    },
+    {
+      "date": "2026-01-16",
+      "country": "ES",
+      "source": "email",
+      "count": 150
+    },
+    {
+      "date": "2026-01-16",
+      "country": "PL",
+      "source": "social",
+      "count": 55
+    },
+    {
+      "date": "2026-01-16",
+      "country": "NL",
+      "source": "email",
+      "count": 97
+    },
+    {
+      "date": "2026-01-16",
+      "country": "BE",
+      "source": "email",
+      "count": 86
+    },
+    {
+      "date": "2026-01-16",
+      "country": "PT",
+      "source": "partner",
+      "count": 44
+    },
+    {
+      "date": "2026-01-16",
+      "country": "AT",
+      "source": "website",
+      "count": 43
+    },
+    {
+      "date": "2026-01-16",
+      "country": "SE",
+      "source": "website",
+      "count": 25
+    },
+    {
+      "date": "2026-01-16",
+      "country": "RO",
+      "source": "website",
+      "count": 27
+    },
+    {
+      "date": "2026-01-16",
+      "country": "GR",
+      "source": "email",
+      "count": 30
+    },
+    {
+      "date": "2026-01-16",
+      "country": "DK",
+      "source": "social",
+      "count": 28
+    },
+    {
+      "date": "2026-01-16",
+      "country": "IE",
+      "source": "social",
+      "count": 13
+    },
+    {
+      "date": "2026-01-16",
+      "country": "CZ",
+      "source": "partner",
+      "count": 16
+    },
+    {
+      "date": "2026-01-16",
+      "country": "HU",
+      "source": "social",
+      "count": 9
+    },
+    {
+      "date": "2026-01-17",
+      "country": "DE",
+      "source": "email",
+      "count": 334
+    },
+    {
+      "date": "2026-01-17",
+      "country": "FR",
+      "source": "email",
+      "count": 123
+    },
+    {
+      "date": "2026-01-17",
+      "country": "IT",
+      "source": "partner",
+      "count": 177
+    },
+    {
+      "date": "2026-01-17",
+      "country": "ES",
+      "source": "social",
+      "count": 95
+    },
+    {
+      "date": "2026-01-17",
+      "country": "PL",
+      "source": "website",
+      "count": 127
+    },
+    {
+      "date": "2026-01-17",
+      "country": "NL",
+      "source": "partner",
+      "count": 48
+    },
+    {
+      "date": "2026-01-17",
+      "country": "BE",
+      "source": "partner",
+      "count": 50
+    },
+    {
+      "date": "2026-01-17",
+      "country": "PT",
+      "source": "social",
+      "count": 29
+    },
+    {
+      "date": "2026-01-17",
+      "country": "AT",
+      "source": "website",
+      "count": 25
+    },
+    {
+      "date": "2026-01-17",
+      "country": "SE",
+      "source": "partner",
+      "count": 42
+    },
+    {
+      "date": "2026-01-17",
+      "country": "RO",
+      "source": "partner",
+      "count": 47
+    },
+    {
+      "date": "2026-01-17",
+      "country": "GR",
+      "source": "social",
+      "count": 19
+    },
+    {
+      "date": "2026-01-17",
+      "country": "DK",
+      "source": "email",
+      "count": 22
+    },
+    {
+      "date": "2026-01-17",
+      "country": "IE",
+      "source": "email",
+      "count": 14
+    },
+    {
+      "date": "2026-01-17",
+      "country": "CZ",
+      "source": "social",
+      "count": 14
+    },
+    {
+      "date": "2026-01-17",
+      "country": "HU",
+      "source": "partner",
+      "count": 14
+    },
+    {
+      "date": "2026-01-18",
+      "country": "DE",
+      "source": "partner",
+      "count": 25
+    },
+    {
+      "date": "2026-01-18",
+      "country": "FR",
+      "source": "email",
+      "count": 20
+    },
+    {
+      "date": "2026-01-18",
+      "country": "IT",
+      "source": "email",
+      "count": 18
+    },
+    {
+      "date": "2026-01-18",
+      "country": "ES",
+      "source": "website",
+      "count": 17
+    },
+    {
+      "date": "2026-01-18",
+      "country": "PL",
+      "source": "website",
+      "count": 13
+    },
+    {
+      "date": "2026-01-18",
+      "country": "NL",
+      "source": "partner",
+      "count": 4
+    },
+    {
+      "date": "2026-01-18",
+      "country": "BE",
+      "source": "email",
+      "count": 4
+    },
+    {
+      "date": "2026-01-18",
+      "country": "PT",
+      "source": "website",
+      "count": 7
+    },
+    {
+      "date": "2026-01-18",
+      "country": "AT",
+      "source": "social",
+      "count": 5
+    },
+    {
+      "date": "2026-01-18",
+      "country": "SE",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-01-18",
+      "country": "RO",
+      "source": "website",
+      "count": 5
+    },
+    {
+      "date": "2026-01-18",
+      "country": "GR",
+      "source": "social",
+      "count": 3
+    },
+    {
+      "date": "2026-01-18",
+      "country": "DK",
+      "source": "social",
+      "count": 1
+    },
+    {
+      "date": "2026-01-18",
+      "country": "IE",
+      "source": "email",
+      "count": 1
+    },
+    {
+      "date": "2026-01-18",
+      "country": "CZ",
+      "source": "partner",
+      "count": 2
+    },
+    {
+      "date": "2026-01-19",
+      "country": "DE",
+      "source": "website",
+      "count": 86
+    },
+    {
+      "date": "2026-01-19",
+      "country": "FR",
+      "source": "social",
+      "count": 31
+    },
+    {
+      "date": "2026-01-19",
+      "country": "IT",
+      "source": "email",
+      "count": 47
+    },
+    {
+      "date": "2026-01-19",
+      "country": "ES",
+      "source": "partner",
+      "count": 18
+    },
+    {
+      "date": "2026-01-19",
+      "country": "PL",
+      "source": "social",
+      "count": 30
+    },
+    {
+      "date": "2026-01-19",
+      "country": "NL",
+      "source": "partner",
+      "count": 10
+    },
+    {
+      "date": "2026-01-19",
+      "country": "BE",
+      "source": "social",
+      "count": 20
+    },
+    {
+      "date": "2026-01-19",
+      "country": "PT",
+      "source": "partner",
+      "count": 8
+    },
+    {
+      "date": "2026-01-19",
+      "country": "AT",
+      "source": "social",
+      "count": 12
+    },
+    {
+      "date": "2026-01-19",
+      "country": "SE",
+      "source": "partner",
+      "count": 10
+    },
+    {
+      "date": "2026-01-19",
+      "country": "RO",
+      "source": "website",
+      "count": 12
+    },
+    {
+      "date": "2026-01-19",
+      "country": "GR",
+      "source": "partner",
+      "count": 5
+    },
+    {
+      "date": "2026-01-19",
+      "country": "DK",
+      "source": "social",
+      "count": 3
+    },
+    {
+      "date": "2026-01-19",
+      "country": "IE",
+      "source": "email",
+      "count": 1
+    },
+    {
+      "date": "2026-01-19",
+      "country": "CZ",
+      "source": "social",
+      "count": 6
+    },
+    {
+      "date": "2026-01-19",
+      "country": "HU",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-01-20",
+      "country": "DE",
+      "source": "email",
+      "count": 36
+    },
+    {
+      "date": "2026-01-20",
+      "country": "FR",
+      "source": "email",
+      "count": 14
+    },
+    {
+      "date": "2026-01-20",
+      "country": "IT",
+      "source": "email",
+      "count": 22
+    },
+    {
+      "date": "2026-01-20",
+      "country": "ES",
+      "source": "website",
+      "count": 15
+    },
+    {
+      "date": "2026-01-20",
+      "country": "PL",
+      "source": "social",
+      "count": 12
+    },
+    {
+      "date": "2026-01-20",
+      "country": "NL",
+      "source": "partner",
+      "count": 8
+    },
+    {
+      "date": "2026-01-20",
+      "country": "BE",
+      "source": "partner",
+      "count": 5
+    },
+    {
+      "date": "2026-01-20",
+      "country": "PT",
+      "source": "social",
+      "count": 7
+    },
+    {
+      "date": "2026-01-20",
+      "country": "AT",
+      "source": "partner",
+      "count": 2
+    },
+    {
+      "date": "2026-01-20",
+      "country": "SE",
+      "source": "partner",
+      "count": 3
+    },
+    {
+      "date": "2026-01-20",
+      "country": "RO",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-01-20",
+      "country": "GR",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-01-20",
+      "country": "DK",
+      "source": "website",
+      "count": 1
+    },
+    {
+      "date": "2026-01-20",
+      "country": "IE",
+      "source": "email",
+      "count": 1
+    },
+    {
+      "date": "2026-01-20",
+      "country": "CZ",
+      "source": "social",
+      "count": 2
+    },
+    {
+      "date": "2026-01-20",
+      "country": "HU",
+      "source": "social",
+      "count": 1
+    },
+    {
+      "date": "2026-01-21",
+      "country": "DE",
+      "source": "partner",
+      "count": 47
+    },
+    {
+      "date": "2026-01-21",
+      "country": "FR",
+      "source": "email",
+      "count": 35
+    },
+    {
+      "date": "2026-01-21",
+      "country": "IT",
+      "source": "email",
+      "count": 35
+    },
+    {
+      "date": "2026-01-21",
+      "country": "ES",
+      "source": "email",
+      "count": 19
+    },
+    {
+      "date": "2026-01-21",
+      "country": "PL",
+      "source": "social",
+      "count": 37
+    },
+    {
+      "date": "2026-01-21",
+      "country": "NL",
+      "source": "partner",
+      "count": 12
+    },
+    {
+      "date": "2026-01-21",
+      "country": "BE",
+      "source": "partner",
+      "count": 15
+    },
+    {
+      "date": "2026-01-21",
+      "country": "PT",
+      "source": "social",
+      "count": 17
+    },
+    {
+      "date": "2026-01-21",
+      "country": "AT",
+      "source": "partner",
+      "count": 8
+    },
+    {
+      "date": "2026-01-21",
+      "country": "SE",
+      "source": "partner",
+      "count": 7
+    },
+    {
+      "date": "2026-01-21",
+      "country": "RO",
+      "source": "partner",
+      "count": 7
+    },
+    {
+      "date": "2026-01-21",
+      "country": "GR",
+      "source": "website",
+      "count": 4
+    },
+    {
+      "date": "2026-01-21",
+      "country": "DK",
+      "source": "email",
+      "count": 4
+    },
+    {
+      "date": "2026-01-21",
+      "country": "IE",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-01-21",
+      "country": "CZ",
+      "source": "email",
+      "count": 7
+    },
+    {
+      "date": "2026-01-21",
+      "country": "HU",
+      "source": "partner",
+      "count": 1
+    },
+    {
+      "date": "2026-01-22",
+      "country": "DE",
+      "source": "social",
+      "count": 347
+    },
+    {
+      "date": "2026-01-22",
+      "country": "FR",
+      "source": "email",
+      "count": 93
+    },
+    {
+      "date": "2026-01-22",
+      "country": "IT",
+      "source": "email",
+      "count": 180
+    },
+    {
+      "date": "2026-01-22",
+      "country": "ES",
+      "source": "social",
+      "count": 134
+    },
+    {
+      "date": "2026-01-22",
+      "country": "PL",
+      "source": "social",
+      "count": 80
+    },
+    {
+      "date": "2026-01-22",
+      "country": "NL",
+      "source": "email",
+      "count": 72
+    },
+    {
+      "date": "2026-01-22",
+      "country": "BE",
+      "source": "partner",
+      "count": 62
+    },
+    {
+      "date": "2026-01-22",
+      "country": "PT",
+      "source": "website",
+      "count": 51
+    },
+    {
+      "date": "2026-01-22",
+      "country": "AT",
+      "source": "social",
+      "count": 47
+    },
+    {
+      "date": "2026-01-22",
+      "country": "SE",
+      "source": "website",
+      "count": 39
+    },
+    {
+      "date": "2026-01-22",
+      "country": "RO",
+      "source": "partner",
+      "count": 24
+    },
+    {
+      "date": "2026-01-22",
+      "country": "GR",
+      "source": "website",
+      "count": 14
+    },
+    {
+      "date": "2026-01-22",
+      "country": "DK",
+      "source": "email",
+      "count": 21
+    },
+    {
+      "date": "2026-01-22",
+      "country": "IE",
+      "source": "email",
+      "count": 5
+    },
+    {
+      "date": "2026-01-22",
+      "country": "CZ",
+      "source": "social",
+      "count": 12
+    },
+    {
+      "date": "2026-01-22",
+      "country": "HU",
+      "source": "social",
+      "count": 11
+    },
+    {
+      "date": "2026-01-23",
+      "country": "DE",
+      "source": "social",
+      "count": 84
+    },
+    {
+      "date": "2026-01-23",
+      "country": "FR",
+      "source": "social",
+      "count": 36
+    },
+    {
+      "date": "2026-01-23",
+      "country": "IT",
+      "source": "website",
+      "count": 31
+    },
+    {
+      "date": "2026-01-23",
+      "country": "ES",
+      "source": "email",
+      "count": 33
+    },
+    {
+      "date": "2026-01-23",
+      "country": "PL",
+      "source": "website",
+      "count": 25
+    },
+    {
+      "date": "2026-01-23",
+      "country": "NL",
+      "source": "email",
+      "count": 23
+    },
+    {
+      "date": "2026-01-23",
+      "country": "BE",
+      "source": "social",
+      "count": 20
+    },
+    {
+      "date": "2026-01-23",
+      "country": "PT",
+      "source": "email",
+      "count": 8
+    },
+    {
+      "date": "2026-01-23",
+      "country": "AT",
+      "source": "social",
+      "count": 10
+    },
+    {
+      "date": "2026-01-23",
+      "country": "SE",
+      "source": "social",
+      "count": 6
+    },
+    {
+      "date": "2026-01-23",
+      "country": "RO",
+      "source": "social",
+      "count": 10
+    },
+    {
+      "date": "2026-01-23",
+      "country": "GR",
+      "source": "website",
+      "count": 6
+    },
+    {
+      "date": "2026-01-23",
+      "country": "DK",
+      "source": "website",
+      "count": 5
+    },
+    {
+      "date": "2026-01-23",
+      "country": "IE",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-01-23",
+      "country": "CZ",
+      "source": "partner",
+      "count": 3
+    },
+    {
+      "date": "2026-01-23",
+      "country": "HU",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-01-24",
+      "country": "DE",
+      "source": "social",
+      "count": 18
+    },
+    {
+      "date": "2026-01-24",
+      "country": "FR",
+      "source": "website",
+      "count": 17
+    },
+    {
+      "date": "2026-01-24",
+      "country": "IT",
+      "source": "partner",
+      "count": 8
+    },
+    {
+      "date": "2026-01-24",
+      "country": "ES",
+      "source": "partner",
+      "count": 11
+    },
+    {
+      "date": "2026-01-24",
+      "country": "PL",
+      "source": "email",
+      "count": 8
+    },
+    {
+      "date": "2026-01-24",
+      "country": "NL",
+      "source": "social",
+      "count": 3
+    },
+    {
+      "date": "2026-01-24",
+      "country": "BE",
+      "source": "website",
+      "count": 5
+    },
+    {
+      "date": "2026-01-24",
+      "country": "PT",
+      "source": "social",
+      "count": 4
+    },
+    {
+      "date": "2026-01-24",
+      "country": "AT",
+      "source": "email",
+      "count": 2
+    },
+    {
+      "date": "2026-01-24",
+      "country": "SE",
+      "source": "email",
+      "count": 2
+    },
+    {
+      "date": "2026-01-24",
+      "country": "RO",
+      "source": "social",
+      "count": 4
+    },
+    {
+      "date": "2026-01-24",
+      "country": "GR",
+      "source": "email",
+      "count": 2
+    },
+    {
+      "date": "2026-01-24",
+      "country": "DK",
+      "source": "partner",
+      "count": 1
+    },
+    {
+      "date": "2026-01-24",
+      "country": "IE",
+      "source": "social",
+      "count": 1
+    },
+    {
+      "date": "2026-01-24",
+      "country": "CZ",
+      "source": "social",
+      "count": 2
+    },
+    {
+      "date": "2026-01-24",
+      "country": "HU",
+      "source": "social",
+      "count": 1
+    },
+    {
+      "date": "2026-01-25",
+      "country": "DE",
+      "source": "website",
+      "count": 35
+    },
+    {
+      "date": "2026-01-25",
+      "country": "FR",
+      "source": "partner",
+      "count": 59
+    },
+    {
+      "date": "2026-01-25",
+      "country": "IT",
+      "source": "social",
+      "count": 48
+    },
+    {
+      "date": "2026-01-25",
+      "country": "ES",
+      "source": "email",
+      "count": 26
+    },
+    {
+      "date": "2026-01-25",
+      "country": "PL",
+      "source": "email",
+      "count": 21
+    },
+    {
+      "date": "2026-01-25",
+      "country": "NL",
+      "source": "social",
+      "count": 25
+    },
+    {
+      "date": "2026-01-25",
+      "country": "BE",
+      "source": "partner",
+      "count": 10
+    },
+    {
+      "date": "2026-01-25",
+      "country": "PT",
+      "source": "social",
+      "count": 10
+    },
+    {
+      "date": "2026-01-25",
+      "country": "AT",
+      "source": "social",
+      "count": 6
+    },
+    {
+      "date": "2026-01-25",
+      "country": "SE",
+      "source": "website",
+      "count": 8
+    },
+    {
+      "date": "2026-01-25",
+      "country": "RO",
+      "source": "website",
+      "count": 12
+    },
+    {
+      "date": "2026-01-25",
+      "country": "GR",
+      "source": "partner",
+      "count": 5
+    },
+    {
+      "date": "2026-01-25",
+      "country": "DK",
+      "source": "website",
+      "count": 7
+    },
+    {
+      "date": "2026-01-25",
+      "country": "IE",
+      "source": "email",
+      "count": 4
+    },
+    {
+      "date": "2026-01-25",
+      "country": "CZ",
+      "source": "website",
+      "count": 8
+    },
+    {
+      "date": "2026-01-25",
+      "country": "HU",
+      "source": "website",
+      "count": 2
+    },
+    {
+      "date": "2026-01-26",
+      "country": "DE",
+      "source": "partner",
+      "count": 15
+    },
+    {
+      "date": "2026-01-26",
+      "country": "FR",
+      "source": "website",
+      "count": 15
+    },
+    {
+      "date": "2026-01-26",
+      "country": "IT",
+      "source": "email",
+      "count": 13
+    },
+    {
+      "date": "2026-01-26",
+      "country": "ES",
+      "source": "social",
+      "count": 11
+    },
+    {
+      "date": "2026-01-26",
+      "country": "PL",
+      "source": "partner",
+      "count": 7
+    },
+    {
+      "date": "2026-01-26",
+      "country": "NL",
+      "source": "social",
+      "count": 3
+    },
+    {
+      "date": "2026-01-26",
+      "country": "BE",
+      "source": "email",
+      "count": 5
+    },
+    {
+      "date": "2026-01-26",
+      "country": "PT",
+      "source": "website",
+      "count": 6
+    },
+    {
+      "date": "2026-01-26",
+      "country": "AT",
+      "source": "email",
+      "count": 4
+    },
+    {
+      "date": "2026-01-26",
+      "country": "SE",
+      "source": "website",
+      "count": 4
+    },
+    {
+      "date": "2026-01-26",
+      "country": "RO",
+      "source": "partner",
+      "count": 3
+    },
+    {
+      "date": "2026-01-26",
+      "country": "GR",
+      "source": "website",
+      "count": 1
+    },
+    {
+      "date": "2026-01-26",
+      "country": "DK",
+      "source": "social",
+      "count": 2
+    },
+    {
+      "date": "2026-01-26",
+      "country": "IE",
+      "source": "partner",
+      "count": 1
+    },
+    {
+      "date": "2026-01-26",
+      "country": "CZ",
+      "source": "social",
+      "count": 2
+    },
+    {
+      "date": "2026-01-26",
+      "country": "HU",
+      "source": "website",
+      "count": 1
+    },
+    {
+      "date": "2026-01-27",
+      "country": "DE",
+      "source": "email",
+      "count": 70
+    },
+    {
+      "date": "2026-01-27",
+      "country": "FR",
+      "source": "social",
+      "count": 37
+    },
+    {
+      "date": "2026-01-27",
+      "country": "IT",
+      "source": "website",
+      "count": 34
+    },
+    {
+      "date": "2026-01-27",
+      "country": "ES",
+      "source": "partner",
+      "count": 32
+    },
+    {
+      "date": "2026-01-27",
+      "country": "PL",
+      "source": "partner",
+      "count": 28
+    },
+    {
+      "date": "2026-01-27",
+      "country": "NL",
+      "source": "social",
+      "count": 23
+    },
+    {
+      "date": "2026-01-27",
+      "country": "BE",
+      "source": "website",
+      "count": 17
+    },
+    {
+      "date": "2026-01-27",
+      "country": "PT",
+      "source": "website",
+      "count": 12
+    },
+    {
+      "date": "2026-01-27",
+      "country": "AT",
+      "source": "social",
+      "count": 5
+    },
+    {
+      "date": "2026-01-27",
+      "country": "SE",
+      "source": "social",
+      "count": 10
+    },
+    {
+      "date": "2026-01-27",
+      "country": "RO",
+      "source": "social",
+      "count": 12
+    },
+    {
+      "date": "2026-01-27",
+      "country": "GR",
+      "source": "social",
+      "count": 3
+    },
+    {
+      "date": "2026-01-27",
+      "country": "DK",
+      "source": "email",
+      "count": 9
+    },
+    {
+      "date": "2026-01-27",
+      "country": "IE",
+      "source": "social",
+      "count": 2
+    },
+    {
+      "date": "2026-01-27",
+      "country": "CZ",
+      "source": "partner",
+      "count": 7
+    },
+    {
+      "date": "2026-01-27",
+      "country": "HU",
+      "source": "social",
+      "count": 3
+    },
+    {
+      "date": "2026-01-28",
+      "country": "DE",
+      "source": "email",
+      "count": 44
+    },
+    {
+      "date": "2026-01-28",
+      "country": "FR",
+      "source": "email",
+      "count": 36
+    },
+    {
+      "date": "2026-01-28",
+      "country": "IT",
+      "source": "social",
+      "count": 26
+    },
+    {
+      "date": "2026-01-28",
+      "country": "ES",
+      "source": "partner",
+      "count": 13
+    },
+    {
+      "date": "2026-01-28",
+      "country": "PL",
+      "source": "social",
+      "count": 7
+    },
+    {
+      "date": "2026-01-28",
+      "country": "NL",
+      "source": "email",
+      "count": 14
+    },
+    {
+      "date": "2026-01-28",
+      "country": "BE",
+      "source": "partner",
+      "count": 8
+    },
+    {
+      "date": "2026-01-28",
+      "country": "PT",
+      "source": "website",
+      "count": 8
+    },
+    {
+      "date": "2026-01-28",
+      "country": "AT",
+      "source": "partner",
+      "count": 7
+    },
+    {
+      "date": "2026-01-28",
+      "country": "SE",
+      "source": "partner",
+      "count": 5
+    },
+    {
+      "date": "2026-01-28",
+      "country": "RO",
+      "source": "partner",
+      "count": 6
+    },
+    {
+      "date": "2026-01-28",
+      "country": "GR",
+      "source": "partner",
+      "count": 4
+    },
+    {
+      "date": "2026-01-28",
+      "country": "DK",
+      "source": "social",
+      "count": 3
+    },
+    {
+      "date": "2026-01-28",
+      "country": "IE",
+      "source": "website",
+      "count": 2
+    },
+    {
+      "date": "2026-01-28",
+      "country": "CZ",
+      "source": "partner",
+      "count": 4
+    },
+    {
+      "date": "2026-01-28",
+      "country": "HU",
+      "source": "website",
+      "count": 1
+    },
+    {
+      "date": "2026-01-29",
+      "country": "DE",
+      "source": "website",
+      "count": 133
+    },
+    {
+      "date": "2026-01-29",
+      "country": "FR",
+      "source": "website",
+      "count": 115
+    },
+    {
+      "date": "2026-01-29",
+      "country": "IT",
+      "source": "email",
+      "count": 103
+    },
+    {
+      "date": "2026-01-29",
+      "country": "ES",
+      "source": "social",
+      "count": 73
+    },
+    {
+      "date": "2026-01-29",
+      "country": "PL",
+      "source": "social",
+      "count": 74
+    },
+    {
+      "date": "2026-01-29",
+      "country": "NL",
+      "source": "email",
+      "count": 76
+    },
+    {
+      "date": "2026-01-29",
+      "country": "BE",
+      "source": "website",
+      "count": 48
+    },
+    {
+      "date": "2026-01-29",
+      "country": "PT",
+      "source": "partner",
+      "count": 43
+    },
+    {
+      "date": "2026-01-29",
+      "country": "AT",
+      "source": "partner",
+      "count": 17
+    },
+    {
+      "date": "2026-01-29",
+      "country": "SE",
+      "source": "email",
+      "count": 28
+    },
+    {
+      "date": "2026-01-29",
+      "country": "RO",
+      "source": "partner",
+      "count": 42
+    },
+    {
+      "date": "2026-01-29",
+      "country": "GR",
+      "source": "website",
+      "count": 20
+    },
+    {
+      "date": "2026-01-29",
+      "country": "DK",
+      "source": "partner",
+      "count": 16
+    },
+    {
+      "date": "2026-01-29",
+      "country": "IE",
+      "source": "partner",
+      "count": 14
+    },
+    {
+      "date": "2026-01-29",
+      "country": "CZ",
+      "source": "social",
+      "count": 21
+    },
+    {
+      "date": "2026-01-29",
+      "country": "HU",
+      "source": "website",
+      "count": 10
+    },
+    {
+      "date": "2026-01-30",
+      "country": "DE",
+      "source": "partner",
+      "count": 70
+    },
+    {
+      "date": "2026-01-30",
+      "country": "FR",
+      "source": "partner",
+      "count": 40
+    },
+    {
+      "date": "2026-01-30",
+      "country": "IT",
+      "source": "partner",
+      "count": 47
+    },
+    {
+      "date": "2026-01-30",
+      "country": "ES",
+      "source": "email",
+      "count": 50
+    },
+    {
+      "date": "2026-01-30",
+      "country": "PL",
+      "source": "email",
+      "count": 36
+    },
+    {
+      "date": "2026-01-30",
+      "country": "NL",
+      "source": "partner",
+      "count": 11
+    },
+    {
+      "date": "2026-01-30",
+      "country": "BE",
+      "source": "partner",
+      "count": 10
+    },
+    {
+      "date": "2026-01-30",
+      "country": "PT",
+      "source": "website",
+      "count": 8
+    },
+    {
+      "date": "2026-01-30",
+      "country": "AT",
+      "source": "social",
+      "count": 8
+    },
+    {
+      "date": "2026-01-30",
+      "country": "SE",
+      "source": "website",
+      "count": 9
+    },
+    {
+      "date": "2026-01-30",
+      "country": "RO",
+      "source": "partner",
+      "count": 12
+    },
+    {
+      "date": "2026-01-30",
+      "country": "GR",
+      "source": "partner",
+      "count": 5
+    },
+    {
+      "date": "2026-01-30",
+      "country": "DK",
+      "source": "email",
+      "count": 4
+    },
+    {
+      "date": "2026-01-30",
+      "country": "IE",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-01-30",
+      "country": "CZ",
+      "source": "website",
+      "count": 9
+    },
+    {
+      "date": "2026-01-30",
+      "country": "HU",
+      "source": "email",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "country": "DE",
+      "source": "social",
+      "count": 33
+    },
+    {
+      "date": "2026-01-31",
+      "country": "FR",
+      "source": "email",
+      "count": 12
+    },
+    {
+      "date": "2026-01-31",
+      "country": "IT",
+      "source": "social",
+      "count": 16
+    },
+    {
+      "date": "2026-01-31",
+      "country": "ES",
+      "source": "email",
+      "count": 8
+    },
+    {
+      "date": "2026-01-31",
+      "country": "PL",
+      "source": "social",
+      "count": 10
+    },
+    {
+      "date": "2026-01-31",
+      "country": "NL",
+      "source": "website",
+      "count": 6
+    },
+    {
+      "date": "2026-01-31",
+      "country": "BE",
+      "source": "social",
+      "count": 7
+    },
+    {
+      "date": "2026-01-31",
+      "country": "PT",
+      "source": "email",
+      "count": 5
+    },
+    {
+      "date": "2026-01-31",
+      "country": "AT",
+      "source": "social",
+      "count": 4
+    },
+    {
+      "date": "2026-01-31",
+      "country": "SE",
+      "source": "email",
+      "count": 5
+    },
+    {
+      "date": "2026-01-31",
+      "country": "RO",
+      "source": "website",
+      "count": 3
+    },
+    {
+      "date": "2026-01-31",
+      "country": "GR",
+      "source": "partner",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "country": "DK",
+      "source": "social",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "country": "CZ",
+      "source": "social",
+      "count": 2
+    },
+    {
+      "date": "2026-02-01",
+      "country": "DE",
+      "source": "email",
+      "count": 75
+    },
+    {
+      "date": "2026-02-01",
+      "country": "FR",
+      "source": "email",
+      "count": 49
+    },
+    {
+      "date": "2026-02-01",
+      "country": "IT",
+      "source": "partner",
+      "count": 25
+    },
+    {
+      "date": "2026-02-01",
+      "country": "ES",
+      "source": "email",
+      "count": 32
+    },
+    {
+      "date": "2026-02-01",
+      "country": "PL",
+      "source": "website",
+      "count": 20
+    },
+    {
+      "date": "2026-02-01",
+      "country": "NL",
+      "source": "partner",
+      "count": 7
+    },
+    {
+      "date": "2026-02-01",
+      "country": "BE",
+      "source": "email",
+      "count": 16
+    },
+    {
+      "date": "2026-02-01",
+      "country": "PT",
+      "source": "website",
+      "count": 9
+    },
+    {
+      "date": "2026-02-01",
+      "country": "AT",
+      "source": "partner",
+      "count": 8
+    },
+    {
+      "date": "2026-02-01",
+      "country": "SE",
+      "source": "partner",
+      "count": 9
+    },
+    {
+      "date": "2026-02-01",
+      "country": "RO",
+      "source": "website",
+      "count": 5
+    },
+    {
+      "date": "2026-02-01",
+      "country": "GR",
+      "source": "partner",
+      "count": 5
+    },
+    {
+      "date": "2026-02-01",
+      "country": "DK",
+      "source": "website",
+      "count": 4
+    },
+    {
+      "date": "2026-02-01",
+      "country": "IE",
+      "source": "social",
+      "count": 2
+    },
+    {
+      "date": "2026-02-01",
+      "country": "CZ",
+      "source": "email",
+      "count": 6
+    },
+    {
+      "date": "2026-02-01",
+      "country": "HU",
+      "source": "partner",
+      "count": 1
+    },
+    {
+      "date": "2026-02-02",
+      "country": "DE",
+      "source": "partner",
+      "count": 61
+    },
+    {
+      "date": "2026-02-02",
+      "country": "FR",
+      "source": "partner",
+      "count": 28
+    },
+    {
+      "date": "2026-02-02",
+      "country": "IT",
+      "source": "social",
+      "count": 36
+    },
+    {
+      "date": "2026-02-02",
+      "country": "ES",
+      "source": "website",
+      "count": 24
+    },
+    {
+      "date": "2026-02-02",
+      "country": "PL",
+      "source": "website",
+      "count": 23
+    },
+    {
+      "date": "2026-02-02",
+      "country": "NL",
+      "source": "website",
+      "count": 10
+    },
+    {
+      "date": "2026-02-02",
+      "country": "BE",
+      "source": "social",
+      "count": 11
+    },
+    {
+      "date": "2026-02-02",
+      "country": "PT",
+      "source": "partner",
+      "count": 5
+    },
+    {
+      "date": "2026-02-02",
+      "country": "AT",
+      "source": "social",
+      "count": 6
+    },
+    {
+      "date": "2026-02-02",
+      "country": "SE",
+      "source": "partner",
+      "count": 8
+    },
+    {
+      "date": "2026-02-02",
+      "country": "RO",
+      "source": "email",
+      "count": 6
+    },
+    {
+      "date": "2026-02-02",
+      "country": "GR",
+      "source": "social",
+      "count": 2
+    },
+    {
+      "date": "2026-02-02",
+      "country": "DK",
+      "source": "social",
+      "count": 4
+    },
+    {
+      "date": "2026-02-02",
+      "country": "IE",
+      "source": "website",
+      "count": 1
+    },
+    {
+      "date": "2026-02-02",
+      "country": "CZ",
+      "source": "website",
+      "count": 4
+    },
+    {
+      "date": "2026-02-02",
+      "country": "HU",
+      "source": "website",
+      "count": 2
+    },
+    {
+      "date": "2026-02-03",
+      "country": "DE",
+      "source": "website",
+      "count": 74
+    },
+    {
+      "date": "2026-02-03",
+      "country": "FR",
+      "source": "social",
+      "count": 33
+    },
+    {
+      "date": "2026-02-03",
+      "country": "IT",
+      "source": "social",
+      "count": 20
+    },
+    {
+      "date": "2026-02-03",
+      "country": "ES",
+      "source": "social",
+      "count": 25
+    },
+    {
+      "date": "2026-02-03",
+      "country": "PL",
+      "source": "partner",
+      "count": 15
+    },
+    {
+      "date": "2026-02-03",
+      "country": "NL",
+      "source": "website",
+      "count": 13
+    },
+    {
+      "date": "2026-02-03",
+      "country": "BE",
+      "source": "social",
+      "count": 20
+    },
+    {
+      "date": "2026-02-03",
+      "country": "PT",
+      "source": "website",
+      "count": 8
+    },
+    {
+      "date": "2026-02-03",
+      "country": "AT",
+      "source": "email",
+      "count": 5
+    },
+    {
+      "date": "2026-02-03",
+      "country": "SE",
+      "source": "social",
+      "count": 10
+    },
+    {
+      "date": "2026-02-03",
+      "country": "RO",
+      "source": "email",
+      "count": 6
+    },
+    {
+      "date": "2026-02-03",
+      "country": "GR",
+      "source": "social",
+      "count": 5
+    },
+    {
+      "date": "2026-02-03",
+      "country": "DK",
+      "source": "partner",
+      "count": 6
+    },
+    {
+      "date": "2026-02-03",
+      "country": "IE",
+      "source": "email",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "country": "CZ",
+      "source": "partner",
+      "count": 6
+    },
+    {
+      "date": "2026-02-03",
+      "country": "HU",
+      "source": "website",
+      "count": 2
+    },
+    {
+      "date": "2026-02-04",
+      "country": "DE",
+      "source": "website",
+      "count": 62
+    },
+    {
+      "date": "2026-02-04",
+      "country": "FR",
+      "source": "partner",
+      "count": 41
+    },
+    {
+      "date": "2026-02-04",
+      "country": "IT",
+      "source": "email",
+      "count": 14
+    },
+    {
+      "date": "2026-02-04",
+      "country": "ES",
+      "source": "email",
+      "count": 19
+    },
+    {
+      "date": "2026-02-04",
+      "country": "PL",
+      "source": "email",
+      "count": 16
+    },
+    {
+      "date": "2026-02-04",
+      "country": "NL",
+      "source": "website",
+      "count": 7
+    },
+    {
+      "date": "2026-02-04",
+      "country": "BE",
+      "source": "social",
+      "count": 5
+    },
+    {
+      "date": "2026-02-04",
+      "country": "PT",
+      "source": "partner",
+      "count": 4
+    },
+    {
+      "date": "2026-02-04",
+      "country": "AT",
+      "source": "social",
+      "count": 6
+    },
+    {
+      "date": "2026-02-04",
+      "country": "SE",
+      "source": "partner",
+      "count": 7
+    },
+    {
+      "date": "2026-02-04",
+      "country": "RO",
+      "source": "partner",
+      "count": 5
+    },
+    {
+      "date": "2026-02-04",
+      "country": "GR",
+      "source": "partner",
+      "count": 3
+    },
+    {
+      "date": "2026-02-04",
+      "country": "DK",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-02-04",
+      "country": "IE",
+      "source": "email",
+      "count": 2
+    },
+    {
+      "date": "2026-02-04",
+      "country": "CZ",
+      "source": "social",
+      "count": 5
+    },
+    {
+      "date": "2026-02-04",
+      "country": "HU",
+      "source": "website",
+      "count": 2
+    },
+    {
+      "date": "2026-02-05",
+      "country": "DE",
+      "source": "social",
+      "count": 98
+    },
+    {
+      "date": "2026-02-05",
+      "country": "FR",
+      "source": "social",
+      "count": 107
+    },
+    {
+      "date": "2026-02-05",
+      "country": "IT",
+      "source": "partner",
+      "count": 41
+    },
+    {
+      "date": "2026-02-05",
+      "country": "ES",
+      "source": "partner",
+      "count": 89
+    },
+    {
+      "date": "2026-02-05",
+      "country": "PL",
+      "source": "social",
+      "count": 43
+    },
+    {
+      "date": "2026-02-05",
+      "country": "NL",
+      "source": "website",
+      "count": 32
+    },
+    {
+      "date": "2026-02-05",
+      "country": "BE",
+      "source": "partner",
+      "count": 41
+    },
+    {
+      "date": "2026-02-05",
+      "country": "PT",
+      "source": "social",
+      "count": 15
+    },
+    {
+      "date": "2026-02-05",
+      "country": "AT",
+      "source": "social",
+      "count": 29
+    },
+    {
+      "date": "2026-02-05",
+      "country": "SE",
+      "source": "social",
+      "count": 18
+    },
+    {
+      "date": "2026-02-05",
+      "country": "RO",
+      "source": "website",
+      "count": 23
+    },
+    {
+      "date": "2026-02-05",
+      "country": "GR",
+      "source": "email",
+      "count": 18
+    },
+    {
+      "date": "2026-02-05",
+      "country": "DK",
+      "source": "website",
+      "count": 7
+    },
+    {
+      "date": "2026-02-05",
+      "country": "IE",
+      "source": "website",
+      "count": 7
+    },
+    {
+      "date": "2026-02-05",
+      "country": "CZ",
+      "source": "partner",
+      "count": 12
+    },
+    {
+      "date": "2026-02-05",
+      "country": "HU",
+      "source": "partner",
+      "count": 8
+    },
+    {
+      "date": "2026-02-06",
+      "country": "DE",
+      "source": "partner",
+      "count": 52
+    },
+    {
+      "date": "2026-02-06",
+      "country": "FR",
+      "source": "email",
+      "count": 33
+    },
+    {
+      "date": "2026-02-06",
+      "country": "IT",
+      "source": "website",
+      "count": 39
+    },
+    {
+      "date": "2026-02-06",
+      "country": "ES",
+      "source": "email",
+      "count": 29
+    },
+    {
+      "date": "2026-02-06",
+      "country": "PL",
+      "source": "email",
+      "count": 11
+    },
+    {
+      "date": "2026-02-06",
+      "country": "NL",
+      "source": "website",
+      "count": 21
+    },
+    {
+      "date": "2026-02-06",
+      "country": "BE",
+      "source": "social",
+      "count": 12
+    },
+    {
+      "date": "2026-02-06",
+      "country": "PT",
+      "source": "partner",
+      "count": 9
+    },
+    {
+      "date": "2026-02-06",
+      "country": "AT",
+      "source": "social",
+      "count": 10
+    },
+    {
+      "date": "2026-02-06",
+      "country": "SE",
+      "source": "partner",
+      "count": 10
+    },
+    {
+      "date": "2026-02-06",
+      "country": "RO",
+      "source": "partner",
+      "count": 8
+    },
+    {
+      "date": "2026-02-06",
+      "country": "GR",
+      "source": "partner",
+      "count": 7
+    },
+    {
+      "date": "2026-02-06",
+      "country": "DK",
+      "source": "website",
+      "count": 4
+    },
+    {
+      "date": "2026-02-06",
+      "country": "IE",
+      "source": "email",
+      "count": 1
+    },
+    {
+      "date": "2026-02-06",
+      "country": "CZ",
+      "source": "website",
+      "count": 6
+    },
+    {
+      "date": "2026-02-06",
+      "country": "HU",
+      "source": "partner",
+      "count": 2
+    },
+    {
+      "date": "2026-02-07",
+      "country": "DE",
+      "source": "partner",
+      "count": 63
+    },
+    {
+      "date": "2026-02-07",
+      "country": "FR",
+      "source": "email",
+      "count": 48
+    },
+    {
+      "date": "2026-02-07",
+      "country": "IT",
+      "source": "website",
+      "count": 28
+    },
+    {
+      "date": "2026-02-07",
+      "country": "ES",
+      "source": "email",
+      "count": 20
+    },
+    {
+      "date": "2026-02-07",
+      "country": "PL",
+      "source": "partner",
+      "count": 29
+    },
+    {
+      "date": "2026-02-07",
+      "country": "NL",
+      "source": "email",
+      "count": 20
+    },
+    {
+      "date": "2026-02-07",
+      "country": "BE",
+      "source": "partner",
+      "count": 14
+    },
+    {
+      "date": "2026-02-07",
+      "country": "PT",
+      "source": "social",
+      "count": 9
+    },
+    {
+      "date": "2026-02-07",
+      "country": "AT",
+      "source": "partner",
+      "count": 7
+    },
+    {
+      "date": "2026-02-07",
+      "country": "SE",
+      "source": "email",
+      "count": 8
+    },
+    {
+      "date": "2026-02-07",
+      "country": "RO",
+      "source": "social",
+      "count": 5
+    },
+    {
+      "date": "2026-02-07",
+      "country": "GR",
+      "source": "partner",
+      "count": 7
+    },
+    {
+      "date": "2026-02-07",
+      "country": "DK",
+      "source": "partner",
+      "count": 6
+    },
+    {
+      "date": "2026-02-07",
+      "country": "IE",
+      "source": "social",
+      "count": 1
+    },
+    {
+      "date": "2026-02-07",
+      "country": "CZ",
+      "source": "website",
+      "count": 5
+    },
+    {
+      "date": "2026-02-07",
+      "country": "HU",
+      "source": "partner",
+      "count": 2
+    },
+    {
+      "date": "2026-02-08",
+      "country": "DE",
+      "source": "email",
+      "count": 23
+    },
+    {
+      "date": "2026-02-08",
+      "country": "FR",
+      "source": "email",
+      "count": 21
+    },
+    {
+      "date": "2026-02-08",
+      "country": "IT",
+      "source": "social",
+      "count": 20
+    },
+    {
+      "date": "2026-02-08",
+      "country": "ES",
+      "source": "website",
+      "count": 16
+    },
+    {
+      "date": "2026-02-08",
+      "country": "PL",
+      "source": "website",
+      "count": 11
+    },
+    {
+      "date": "2026-02-08",
+      "country": "NL",
+      "source": "partner",
+      "count": 8
+    },
+    {
+      "date": "2026-02-08",
+      "country": "BE",
+      "source": "social",
+      "count": 10
+    },
+    {
+      "date": "2026-02-08",
+      "country": "PT",
+      "source": "social",
+      "count": 5
+    },
+    {
+      "date": "2026-02-08",
+      "country": "AT",
+      "source": "social",
+      "count": 3
+    },
+    {
+      "date": "2026-02-08",
+      "country": "SE",
+      "source": "website",
+      "count": 6
+    },
+    {
+      "date": "2026-02-08",
+      "country": "RO",
+      "source": "partner",
+      "count": 5
+    },
+    {
+      "date": "2026-02-08",
+      "country": "GR",
+      "source": "website",
+      "count": 2
+    },
+    {
+      "date": "2026-02-08",
+      "country": "DK",
+      "source": "website",
+      "count": 3
+    },
+    {
+      "date": "2026-02-08",
+      "country": "IE",
+      "source": "partner",
+      "count": 1
+    },
+    {
+      "date": "2026-02-08",
+      "country": "CZ",
+      "source": "partner",
+      "count": 4
+    },
+    {
+      "date": "2026-02-08",
+      "country": "HU",
+      "source": "website",
+      "count": 1
+    },
+    {
+      "date": "2026-02-09",
+      "country": "DE",
+      "source": "partner",
+      "count": 62
+    },
+    {
+      "date": "2026-02-09",
+      "country": "FR",
+      "source": "website",
+      "count": 38
+    },
+    {
+      "date": "2026-02-09",
+      "country": "IT",
+      "source": "social",
+      "count": 44
+    },
+    {
+      "date": "2026-02-09",
+      "country": "ES",
+      "source": "social",
+      "count": 31
+    },
+    {
+      "date": "2026-02-09",
+      "country": "PL",
+      "source": "partner",
+      "count": 29
+    },
+    {
+      "date": "2026-02-09",
+      "country": "NL",
+      "source": "partner",
+      "count": 8
+    },
+    {
+      "date": "2026-02-09",
+      "country": "BE",
+      "source": "partner",
+      "count": 16
+    },
+    {
+      "date": "2026-02-09",
+      "country": "PT",
+      "source": "social",
+      "count": 9
+    },
+    {
+      "date": "2026-02-09",
+      "country": "AT",
+      "source": "email",
+      "count": 8
+    },
+    {
+      "date": "2026-02-09",
+      "country": "SE",
+      "source": "website",
+      "count": 5
+    },
+    {
+      "date": "2026-02-09",
+      "country": "RO",
+      "source": "partner",
+      "count": 11
+    },
+    {
+      "date": "2026-02-09",
+      "country": "GR",
+      "source": "partner",
+      "count": 3
+    },
+    {
+      "date": "2026-02-09",
+      "country": "DK",
+      "source": "social",
+      "count": 2
+    },
+    {
+      "date": "2026-02-09",
+      "country": "IE",
+      "source": "social",
+      "count": 2
+    },
+    {
+      "date": "2026-02-09",
+      "country": "CZ",
+      "source": "website",
+      "count": 3
+    },
+    {
+      "date": "2026-02-09",
+      "country": "HU",
+      "source": "partner",
+      "count": 2
+    },
+    {
+      "date": "2026-02-10",
+      "country": "DE",
+      "source": "partner",
+      "count": 41
+    },
+    {
+      "date": "2026-02-10",
+      "country": "FR",
+      "source": "partner",
+      "count": 30
+    },
+    {
+      "date": "2026-02-10",
+      "country": "IT",
+      "source": "email",
+      "count": 23
+    },
+    {
+      "date": "2026-02-10",
+      "country": "ES",
+      "source": "social",
+      "count": 17
+    },
+    {
+      "date": "2026-02-10",
+      "country": "PL",
+      "source": "website",
+      "count": 12
+    },
+    {
+      "date": "2026-02-10",
+      "country": "NL",
+      "source": "email",
+      "count": 12
+    },
+    {
+      "date": "2026-02-10",
+      "country": "BE",
+      "source": "email",
+      "count": 6
+    },
+    {
+      "date": "2026-02-10",
+      "country": "PT",
+      "source": "email",
+      "count": 7
+    },
+    {
+      "date": "2026-02-10",
+      "country": "AT",
+      "source": "website",
+      "count": 3
+    },
+    {
+      "date": "2026-02-10",
+      "country": "SE",
+      "source": "email",
+      "count": 5
+    },
+    {
+      "date": "2026-02-10",
+      "country": "RO",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-02-10",
+      "country": "GR",
+      "source": "website",
+      "count": 2
+    },
+    {
+      "date": "2026-02-10",
+      "country": "DK",
+      "source": "social",
+      "count": 2
+    },
+    {
+      "date": "2026-02-10",
+      "country": "IE",
+      "source": "social",
+      "count": 1
+    },
+    {
+      "date": "2026-02-10",
+      "country": "CZ",
+      "source": "email",
+      "count": 1
+    },
+    {
+      "date": "2026-02-10",
+      "country": "HU",
+      "source": "partner",
+      "count": 1
+    },
+    {
+      "date": "2026-02-11",
+      "country": "DE",
+      "source": "social",
+      "count": 48
+    },
+    {
+      "date": "2026-02-11",
+      "country": "FR",
+      "source": "website",
+      "count": 24
+    },
+    {
+      "date": "2026-02-11",
+      "country": "IT",
+      "source": "email",
+      "count": 25
+    },
+    {
+      "date": "2026-02-11",
+      "country": "ES",
+      "source": "partner",
+      "count": 34
+    },
+    {
+      "date": "2026-02-11",
+      "country": "PL",
+      "source": "social",
+      "count": 24
+    },
+    {
+      "date": "2026-02-11",
+      "country": "NL",
+      "source": "website",
+      "count": 7
+    },
+    {
+      "date": "2026-02-11",
+      "country": "BE",
+      "source": "website",
+      "count": 16
+    },
+    {
+      "date": "2026-02-11",
+      "country": "PT",
+      "source": "partner",
+      "count": 10
+    },
+    {
+      "date": "2026-02-11",
+      "country": "AT",
+      "source": "partner",
+      "count": 7
+    },
+    {
+      "date": "2026-02-11",
+      "country": "SE",
+      "source": "social",
+      "count": 9
+    },
+    {
+      "date": "2026-02-11",
+      "country": "RO",
+      "source": "partner",
+      "count": 10
+    },
+    {
+      "date": "2026-02-11",
+      "country": "GR",
+      "source": "partner",
+      "count": 2
+    },
+    {
+      "date": "2026-02-11",
+      "country": "DK",
+      "source": "website",
+      "count": 4
+    },
+    {
+      "date": "2026-02-11",
+      "country": "IE",
+      "source": "website",
+      "count": 3
+    },
+    {
+      "date": "2026-02-11",
+      "country": "CZ",
+      "source": "partner",
+      "count": 2
+    },
+    {
+      "date": "2026-02-11",
+      "country": "HU",
+      "source": "email",
+      "count": 1
+    },
+    {
+      "date": "2026-02-12",
+      "country": "DE",
+      "source": "website",
+      "count": 324
+    },
+    {
+      "date": "2026-02-12",
+      "country": "FR",
+      "source": "social",
+      "count": 212
+    },
+    {
+      "date": "2026-02-12",
+      "country": "IT",
+      "source": "website",
+      "count": 147
+    },
+    {
+      "date": "2026-02-12",
+      "country": "ES",
+      "source": "social",
+      "count": 87
+    },
+    {
+      "date": "2026-02-12",
+      "country": "PL",
+      "source": "social",
+      "count": 99
+    },
+    {
+      "date": "2026-02-12",
+      "country": "NL",
+      "source": "email",
+      "count": 75
+    },
+    {
+      "date": "2026-02-12",
+      "country": "BE",
+      "source": "partner",
+      "count": 44
+    },
+    {
+      "date": "2026-02-12",
+      "country": "PT",
+      "source": "website",
+      "count": 23
+    },
+    {
+      "date": "2026-02-12",
+      "country": "AT",
+      "source": "email",
+      "count": 40
+    },
+    {
+      "date": "2026-02-12",
+      "country": "SE",
+      "source": "website",
+      "count": 46
+    },
+    {
+      "date": "2026-02-12",
+      "country": "RO",
+      "source": "social",
+      "count": 41
+    },
+    {
+      "date": "2026-02-12",
+      "country": "GR",
+      "source": "website",
+      "count": 15
+    },
+    {
+      "date": "2026-02-12",
+      "country": "DK",
+      "source": "website",
+      "count": 22
+    },
+    {
+      "date": "2026-02-12",
+      "country": "IE",
+      "source": "website",
+      "count": 14
+    },
+    {
+      "date": "2026-02-12",
+      "country": "CZ",
+      "source": "partner",
+      "count": 31
+    },
+    {
+      "date": "2026-02-12",
+      "country": "HU",
+      "source": "website",
+      "count": 16
+    },
+    {
+      "date": "2026-02-13",
+      "country": "DE",
+      "source": "partner",
+      "count": 78
+    },
+    {
+      "date": "2026-02-13",
+      "country": "FR",
+      "source": "social",
+      "count": 59
+    },
+    {
+      "date": "2026-02-13",
+      "country": "IT",
+      "source": "social",
+      "count": 41
+    },
+    {
+      "date": "2026-02-13",
+      "country": "ES",
+      "source": "partner",
+      "count": 40
+    },
+    {
+      "date": "2026-02-13",
+      "country": "PL",
+      "source": "website",
+      "count": 32
+    },
+    {
+      "date": "2026-02-13",
+      "country": "NL",
+      "source": "partner",
+      "count": 9
+    },
+    {
+      "date": "2026-02-13",
+      "country": "BE",
+      "source": "email",
+      "count": 7
+    },
+    {
+      "date": "2026-02-13",
+      "country": "PT",
+      "source": "website",
+      "count": 10
+    },
+    {
+      "date": "2026-02-13",
+      "country": "AT",
+      "source": "website",
+      "count": 8
+    },
+    {
+      "date": "2026-02-13",
+      "country": "SE",
+      "source": "social",
+      "count": 4
+    },
+    {
+      "date": "2026-02-13",
+      "country": "RO",
+      "source": "website",
+      "count": 7
+    },
+    {
+      "date": "2026-02-13",
+      "country": "GR",
+      "source": "social",
+      "count": 7
+    },
+    {
+      "date": "2026-02-13",
+      "country": "DK",
+      "source": "partner",
+      "count": 6
+    },
+    {
+      "date": "2026-02-13",
+      "country": "IE",
+      "source": "website",
+      "count": 3
+    },
+    {
+      "date": "2026-02-13",
+      "country": "CZ",
+      "source": "email",
+      "count": 6
+    },
+    {
+      "date": "2026-02-13",
+      "country": "HU",
+      "source": "email",
+      "count": 1
+    },
+    {
+      "date": "2026-02-14",
+      "country": "DE",
+      "source": "email",
+      "count": 83
+    },
+    {
+      "date": "2026-02-14",
+      "country": "FR",
+      "source": "social",
+      "count": 22
+    },
+    {
+      "date": "2026-02-14",
+      "country": "IT",
+      "source": "website",
+      "count": 27
+    },
+    {
+      "date": "2026-02-14",
+      "country": "ES",
+      "source": "partner",
+      "count": 32
+    },
+    {
+      "date": "2026-02-14",
+      "country": "PL",
+      "source": "social",
+      "count": 22
+    },
+    {
+      "date": "2026-02-14",
+      "country": "NL",
+      "source": "email",
+      "count": 21
+    },
+    {
+      "date": "2026-02-14",
+      "country": "BE",
+      "source": "partner",
+      "count": 17
+    },
+    {
+      "date": "2026-02-14",
+      "country": "PT",
+      "source": "website",
+      "count": 14
+    },
+    {
+      "date": "2026-02-14",
+      "country": "AT",
+      "source": "website",
+      "count": 4
+    },
+    {
+      "date": "2026-02-14",
+      "country": "SE",
+      "source": "partner",
+      "count": 5
+    },
+    {
+      "date": "2026-02-14",
+      "country": "RO",
+      "source": "website",
+      "count": 11
+    },
+    {
+      "date": "2026-02-14",
+      "country": "GR",
+      "source": "website",
+      "count": 3
+    },
+    {
+      "date": "2026-02-14",
+      "country": "DK",
+      "source": "website",
+      "count": 5
+    },
+    {
+      "date": "2026-02-14",
+      "country": "IE",
+      "source": "website",
+      "count": 1
+    },
+    {
+      "date": "2026-02-14",
+      "country": "CZ",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-02-14",
+      "country": "HU",
+      "source": "partner",
+      "count": 3
+    },
+    {
+      "date": "2026-02-15",
+      "country": "DE",
+      "source": "email",
+      "count": 37
+    },
+    {
+      "date": "2026-02-15",
+      "country": "FR",
+      "source": "website",
+      "count": 12
+    },
+    {
+      "date": "2026-02-15",
+      "country": "IT",
+      "source": "social",
+      "count": 13
+    },
+    {
+      "date": "2026-02-15",
+      "country": "ES",
+      "source": "social",
+      "count": 20
+    },
+    {
+      "date": "2026-02-15",
+      "country": "PL",
+      "source": "social",
+      "count": 6
+    },
+    {
+      "date": "2026-02-15",
+      "country": "NL",
+      "source": "social",
+      "count": 9
+    },
+    {
+      "date": "2026-02-15",
+      "country": "BE",
+      "source": "social",
+      "count": 6
+    },
+    {
+      "date": "2026-02-15",
+      "country": "PT",
+      "source": "email",
+      "count": 7
+    },
+    {
+      "date": "2026-02-15",
+      "country": "AT",
+      "source": "social",
+      "count": 3
+    },
+    {
+      "date": "2026-02-15",
+      "country": "SE",
+      "source": "website",
+      "count": 6
+    },
+    {
+      "date": "2026-02-15",
+      "country": "RO",
+      "source": "email",
+      "count": 5
+    },
+    {
+      "date": "2026-02-15",
+      "country": "GR",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-02-15",
+      "country": "DK",
+      "source": "website",
+      "count": 1
+    },
+    {
+      "date": "2026-02-15",
+      "country": "IE",
+      "source": "social",
+      "count": 1
+    },
+    {
+      "date": "2026-02-15",
+      "country": "CZ",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-02-16",
+      "country": "DE",
+      "source": "partner",
+      "count": 17
+    },
+    {
+      "date": "2026-02-16",
+      "country": "FR",
+      "source": "email",
+      "count": 19
+    },
+    {
+      "date": "2026-02-16",
+      "country": "IT",
+      "source": "website",
+      "count": 14
+    },
+    {
+      "date": "2026-02-16",
+      "country": "ES",
+      "source": "email",
+      "count": 14
+    },
+    {
+      "date": "2026-02-16",
+      "country": "PL",
+      "source": "social",
+      "count": 9
+    },
+    {
+      "date": "2026-02-16",
+      "country": "NL",
+      "source": "email",
+      "count": 10
+    },
+    {
+      "date": "2026-02-16",
+      "country": "BE",
+      "source": "website",
+      "count": 7
+    },
+    {
+      "date": "2026-02-16",
+      "country": "PT",
+      "source": "email",
+      "count": 4
+    },
+    {
+      "date": "2026-02-16",
+      "country": "AT",
+      "source": "partner",
+      "count": 2
+    },
+    {
+      "date": "2026-02-16",
+      "country": "SE",
+      "source": "partner",
+      "count": 5
+    },
+    {
+      "date": "2026-02-16",
+      "country": "RO",
+      "source": "partner",
+      "count": 4
+    },
+    {
+      "date": "2026-02-16",
+      "country": "GR",
+      "source": "partner",
+      "count": 3
+    },
+    {
+      "date": "2026-02-16",
+      "country": "DK",
+      "source": "email",
+      "count": 1
+    },
+    {
+      "date": "2026-02-16",
+      "country": "IE",
+      "source": "social",
+      "count": 1
+    },
+    {
+      "date": "2026-02-16",
+      "country": "CZ",
+      "source": "website",
+      "count": 1
+    },
+    {
+      "date": "2026-02-16",
+      "country": "HU",
+      "source": "website",
+      "count": 1
+    },
+    {
+      "date": "2026-02-17",
+      "country": "DE",
+      "source": "website",
+      "count": 97
+    },
+    {
+      "date": "2026-02-17",
+      "country": "FR",
+      "source": "partner",
+      "count": 42
+    },
+    {
+      "date": "2026-02-17",
+      "country": "IT",
+      "source": "email",
+      "count": 21
+    },
+    {
+      "date": "2026-02-17",
+      "country": "ES",
+      "source": "social",
+      "count": 43
+    },
+    {
+      "date": "2026-02-17",
+      "country": "PL",
+      "source": "social",
+      "count": 21
+    },
+    {
+      "date": "2026-02-17",
+      "country": "NL",
+      "source": "partner",
+      "count": 16
+    },
+    {
+      "date": "2026-02-17",
+      "country": "BE",
+      "source": "email",
+      "count": 13
+    },
+    {
+      "date": "2026-02-17",
+      "country": "PT",
+      "source": "website",
+      "count": 9
+    },
+    {
+      "date": "2026-02-17",
+      "country": "AT",
+      "source": "website",
+      "count": 10
+    },
+    {
+      "date": "2026-02-17",
+      "country": "SE",
+      "source": "partner",
+      "count": 12
+    },
+    {
+      "date": "2026-02-17",
+      "country": "RO",
+      "source": "email",
+      "count": 5
+    },
+    {
+      "date": "2026-02-17",
+      "country": "GR",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-02-17",
+      "country": "DK",
+      "source": "website",
+      "count": 7
+    },
+    {
+      "date": "2026-02-17",
+      "country": "IE",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-02-17",
+      "country": "CZ",
+      "source": "website",
+      "count": 6
+    },
+    {
+      "date": "2026-02-17",
+      "country": "HU",
+      "source": "partner",
+      "count": 3
+    },
+    {
+      "date": "2026-02-18",
+      "country": "DE",
+      "source": "partner",
+      "count": 84
+    },
+    {
+      "date": "2026-02-18",
+      "country": "FR",
+      "source": "email",
+      "count": 57
+    },
+    {
+      "date": "2026-02-18",
+      "country": "IT",
+      "source": "website",
+      "count": 49
+    },
+    {
+      "date": "2026-02-18",
+      "country": "ES",
+      "source": "social",
+      "count": 26
+    },
+    {
+      "date": "2026-02-18",
+      "country": "PL",
+      "source": "partner",
+      "count": 14
+    },
+    {
+      "date": "2026-02-18",
+      "country": "NL",
+      "source": "email",
+      "count": 12
+    },
+    {
+      "date": "2026-02-18",
+      "country": "BE",
+      "source": "website",
+      "count": 11
+    },
+    {
+      "date": "2026-02-18",
+      "country": "PT",
+      "source": "website",
+      "count": 6
+    },
+    {
+      "date": "2026-02-18",
+      "country": "AT",
+      "source": "partner",
+      "count": 9
+    },
+    {
+      "date": "2026-02-18",
+      "country": "SE",
+      "source": "email",
+      "count": 11
+    },
+    {
+      "date": "2026-02-18",
+      "country": "RO",
+      "source": "website",
+      "count": 9
+    },
+    {
+      "date": "2026-02-18",
+      "country": "GR",
+      "source": "website",
+      "count": 2
+    },
+    {
+      "date": "2026-02-18",
+      "country": "DK",
+      "source": "website",
+      "count": 6
+    },
+    {
+      "date": "2026-02-18",
+      "country": "IE",
+      "source": "website",
+      "count": 3
+    },
+    {
+      "date": "2026-02-18",
+      "country": "CZ",
+      "source": "social",
+      "count": 2
+    },
+    {
+      "date": "2026-02-18",
+      "country": "HU",
+      "source": "partner",
+      "count": 2
+    },
+    {
+      "date": "2026-02-19",
+      "country": "DE",
+      "source": "email",
+      "count": 94
+    },
+    {
+      "date": "2026-02-19",
+      "country": "FR",
+      "source": "social",
+      "count": 59
+    },
+    {
+      "date": "2026-02-19",
+      "country": "IT",
+      "source": "partner",
+      "count": 70
+    },
+    {
+      "date": "2026-02-19",
+      "country": "ES",
+      "source": "website",
+      "count": 62
+    },
+    {
+      "date": "2026-02-19",
+      "country": "PL",
+      "source": "website",
+      "count": 43
+    },
+    {
+      "date": "2026-02-19",
+      "country": "NL",
+      "source": "email",
+      "count": 51
+    },
+    {
+      "date": "2026-02-19",
+      "country": "BE",
+      "source": "social",
+      "count": 46
+    },
+    {
+      "date": "2026-02-19",
+      "country": "PT",
+      "source": "email",
+      "count": 17
+    },
+    {
+      "date": "2026-02-19",
+      "country": "AT",
+      "source": "website",
+      "count": 23
+    },
+    {
+      "date": "2026-02-19",
+      "country": "SE",
+      "source": "partner",
+      "count": 18
+    },
+    {
+      "date": "2026-02-19",
+      "country": "RO",
+      "source": "partner",
+      "count": 19
+    },
+    {
+      "date": "2026-02-19",
+      "country": "GR",
+      "source": "social",
+      "count": 12
+    },
+    {
+      "date": "2026-02-19",
+      "country": "DK",
+      "source": "email",
+      "count": 16
+    },
+    {
+      "date": "2026-02-19",
+      "country": "IE",
+      "source": "email",
+      "count": 5
+    },
+    {
+      "date": "2026-02-19",
+      "country": "CZ",
+      "source": "partner",
+      "count": 10
+    },
+    {
+      "date": "2026-02-19",
+      "country": "HU",
+      "source": "website",
+      "count": 6
+    },
+    {
+      "date": "2026-02-20",
+      "country": "DE",
+      "source": "email",
+      "count": 19
+    },
+    {
+      "date": "2026-02-20",
+      "country": "FR",
+      "source": "website",
+      "count": 9
+    },
+    {
+      "date": "2026-02-20",
+      "country": "IT",
+      "source": "social",
+      "count": 21
+    },
+    {
+      "date": "2026-02-20",
+      "country": "ES",
+      "source": "website",
+      "count": 17
+    },
+    {
+      "date": "2026-02-20",
+      "country": "PL",
+      "source": "email",
+      "count": 8
+    },
+    {
+      "date": "2026-02-20",
+      "country": "NL",
+      "source": "partner",
+      "count": 7
+    },
+    {
+      "date": "2026-02-20",
+      "country": "BE",
+      "source": "partner",
+      "count": 4
+    },
+    {
+      "date": "2026-02-20",
+      "country": "PT",
+      "source": "social",
+      "count": 5
+    },
+    {
+      "date": "2026-02-20",
+      "country": "AT",
+      "source": "website",
+      "count": 3
+    },
+    {
+      "date": "2026-02-20",
+      "country": "SE",
+      "source": "email",
+      "count": 2
+    },
+    {
+      "date": "2026-02-20",
+      "country": "RO",
+      "source": "partner",
+      "count": 3
+    },
+    {
+      "date": "2026-02-20",
+      "country": "GR",
+      "source": "website",
+      "count": 3
+    },
+    {
+      "date": "2026-02-20",
+      "country": "DK",
+      "source": "partner",
+      "count": 2
+    },
+    {
+      "date": "2026-02-20",
+      "country": "IE",
+      "source": "partner",
+      "count": 1
+    },
+    {
+      "date": "2026-02-20",
+      "country": "CZ",
+      "source": "partner",
+      "count": 1
+    },
+    {
+      "date": "2026-02-21",
+      "country": "DE",
+      "source": "partner",
+      "count": 39
+    },
+    {
+      "date": "2026-02-21",
+      "country": "FR",
+      "source": "website",
+      "count": 53
+    },
+    {
+      "date": "2026-02-21",
+      "country": "IT",
+      "source": "email",
+      "count": 18
+    },
+    {
+      "date": "2026-02-21",
+      "country": "ES",
+      "source": "partner",
+      "count": 21
+    },
+    {
+      "date": "2026-02-21",
+      "country": "PL",
+      "source": "partner",
+      "count": 21
+    },
+    {
+      "date": "2026-02-21",
+      "country": "NL",
+      "source": "website",
+      "count": 21
+    },
+    {
+      "date": "2026-02-21",
+      "country": "BE",
+      "source": "social",
+      "count": 9
+    },
+    {
+      "date": "2026-02-21",
+      "country": "PT",
+      "source": "email",
+      "count": 6
+    },
+    {
+      "date": "2026-02-21",
+      "country": "AT",
+      "source": "social",
+      "count": 8
+    },
+    {
+      "date": "2026-02-21",
+      "country": "SE",
+      "source": "website",
+      "count": 11
+    },
+    {
+      "date": "2026-02-21",
+      "country": "RO",
+      "source": "social",
+      "count": 6
+    },
+    {
+      "date": "2026-02-21",
+      "country": "GR",
+      "source": "social",
+      "count": 3
+    },
+    {
+      "date": "2026-02-21",
+      "country": "DK",
+      "source": "social",
+      "count": 4
+    },
+    {
+      "date": "2026-02-21",
+      "country": "IE",
+      "source": "email",
+      "count": 2
+    },
+    {
+      "date": "2026-02-21",
+      "country": "CZ",
+      "source": "partner",
+      "count": 3
+    },
+    {
+      "date": "2026-02-21",
+      "country": "HU",
+      "source": "partner",
+      "count": 2
+    },
+    {
+      "date": "2026-02-22",
+      "country": "DE",
+      "source": "website",
+      "count": 97
+    },
+    {
+      "date": "2026-02-22",
+      "country": "FR",
+      "source": "website",
+      "count": 79
+    },
+    {
+      "date": "2026-02-22",
+      "country": "IT",
+      "source": "email",
+      "count": 30
+    },
+    {
+      "date": "2026-02-22",
+      "country": "ES",
+      "source": "website",
+      "count": 41
+    },
+    {
+      "date": "2026-02-22",
+      "country": "PL",
+      "source": "email",
+      "count": 40
+    },
+    {
+      "date": "2026-02-22",
+      "country": "NL",
+      "source": "email",
+      "count": 19
+    },
+    {
+      "date": "2026-02-22",
+      "country": "BE",
+      "source": "partner",
+      "count": 15
+    },
+    {
+      "date": "2026-02-22",
+      "country": "PT",
+      "source": "website",
+      "count": 8
+    },
+    {
+      "date": "2026-02-22",
+      "country": "AT",
+      "source": "email",
+      "count": 15
+    },
+    {
+      "date": "2026-02-22",
+      "country": "SE",
+      "source": "email",
+      "count": 13
+    },
+    {
+      "date": "2026-02-22",
+      "country": "RO",
+      "source": "partner",
+      "count": 13
+    },
+    {
+      "date": "2026-02-22",
+      "country": "GR",
+      "source": "email",
+      "count": 7
+    },
+    {
+      "date": "2026-02-22",
+      "country": "DK",
+      "source": "social",
+      "count": 7
+    },
+    {
+      "date": "2026-02-22",
+      "country": "IE",
+      "source": "partner",
+      "count": 3
+    },
+    {
+      "date": "2026-02-22",
+      "country": "CZ",
+      "source": "email",
+      "count": 7
+    },
+    {
+      "date": "2026-02-22",
+      "country": "HU",
+      "source": "website",
+      "count": 3
+    },
+    {
+      "date": "2026-02-23",
+      "country": "DE",
+      "source": "social",
+      "count": 31
+    },
+    {
+      "date": "2026-02-23",
+      "country": "FR",
+      "source": "partner",
+      "count": 11
+    },
+    {
+      "date": "2026-02-23",
+      "country": "IT",
+      "source": "social",
+      "count": 25
+    },
+    {
+      "date": "2026-02-23",
+      "country": "ES",
+      "source": "website",
+      "count": 13
+    },
+    {
+      "date": "2026-02-23",
+      "country": "PL",
+      "source": "website",
+      "count": 10
+    },
+    {
+      "date": "2026-02-23",
+      "country": "NL",
+      "source": "email",
+      "count": 10
+    },
+    {
+      "date": "2026-02-23",
+      "country": "BE",
+      "source": "website",
+      "count": 9
+    },
+    {
+      "date": "2026-02-23",
+      "country": "PT",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-02-23",
+      "country": "AT",
+      "source": "partner",
+      "count": 4
+    },
+    {
+      "date": "2026-02-23",
+      "country": "SE",
+      "source": "social",
+      "count": 3
+    },
+    {
+      "date": "2026-02-23",
+      "country": "RO",
+      "source": "social",
+      "count": 3
+    },
+    {
+      "date": "2026-02-23",
+      "country": "GR",
+      "source": "website",
+      "count": 4
+    },
+    {
+      "date": "2026-02-23",
+      "country": "DK",
+      "source": "partner",
+      "count": 4
+    },
+    {
+      "date": "2026-02-23",
+      "country": "CZ",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-02-23",
+      "country": "HU",
+      "source": "partner",
+      "count": 1
+    },
+    {
+      "date": "2026-02-24",
+      "country": "DE",
+      "source": "email",
+      "count": 77
+    },
+    {
+      "date": "2026-02-24",
+      "country": "FR",
+      "source": "partner",
+      "count": 46
+    },
+    {
+      "date": "2026-02-24",
+      "country": "IT",
+      "source": "email",
+      "count": 32
+    },
+    {
+      "date": "2026-02-24",
+      "country": "ES",
+      "source": "social",
+      "count": 25
+    },
+    {
+      "date": "2026-02-24",
+      "country": "PL",
+      "source": "website",
+      "count": 31
+    },
+    {
+      "date": "2026-02-24",
+      "country": "NL",
+      "source": "partner",
+      "count": 23
+    },
+    {
+      "date": "2026-02-24",
+      "country": "BE",
+      "source": "social",
+      "count": 9
+    },
+    {
+      "date": "2026-02-24",
+      "country": "PT",
+      "source": "website",
+      "count": 7
+    },
+    {
+      "date": "2026-02-24",
+      "country": "AT",
+      "source": "email",
+      "count": 10
+    },
+    {
+      "date": "2026-02-24",
+      "country": "SE",
+      "source": "email",
+      "count": 8
+    },
+    {
+      "date": "2026-02-24",
+      "country": "RO",
+      "source": "social",
+      "count": 9
+    },
+    {
+      "date": "2026-02-24",
+      "country": "GR",
+      "source": "social",
+      "count": 5
+    },
+    {
+      "date": "2026-02-24",
+      "country": "DK",
+      "source": "social",
+      "count": 3
+    },
+    {
+      "date": "2026-02-24",
+      "country": "IE",
+      "source": "email",
+      "count": 3
+    },
+    {
+      "date": "2026-02-24",
+      "country": "CZ",
+      "source": "social",
+      "count": 4
+    },
+    {
+      "date": "2026-02-24",
+      "country": "HU",
+      "source": "website",
+      "count": 3
+    },
+    {
+      "date": "2026-02-25",
+      "country": "DE",
+      "source": "social",
+      "count": 53
+    },
+    {
+      "date": "2026-02-25",
+      "country": "FR",
+      "source": "partner",
+      "count": 39
+    },
+    {
+      "date": "2026-02-25",
+      "country": "IT",
+      "source": "social",
+      "count": 55
+    },
+    {
+      "date": "2026-02-25",
+      "country": "ES",
+      "source": "partner",
+      "count": 31
+    },
+    {
+      "date": "2026-02-25",
+      "country": "PL",
+      "source": "website",
+      "count": 25
+    },
+    {
+      "date": "2026-02-25",
+      "country": "NL",
+      "source": "partner",
+      "count": 25
+    },
+    {
+      "date": "2026-02-25",
+      "country": "BE",
+      "source": "social",
+      "count": 24
+    },
+    {
+      "date": "2026-02-25",
+      "country": "PT",
+      "source": "social",
+      "count": 17
+    },
+    {
+      "date": "2026-02-25",
+      "country": "AT",
+      "source": "email",
+      "count": 13
+    },
+    {
+      "date": "2026-02-25",
+      "country": "SE",
+      "source": "website",
+      "count": 11
+    },
+    {
+      "date": "2026-02-25",
+      "country": "RO",
+      "source": "email",
+      "count": 10
+    },
+    {
+      "date": "2026-02-25",
+      "country": "GR",
+      "source": "email",
+      "count": 7
+    },
+    {
+      "date": "2026-02-25",
+      "country": "DK",
+      "source": "social",
+      "count": 5
+    },
+    {
+      "date": "2026-02-25",
+      "country": "IE",
+      "source": "social",
+      "count": 2
+    },
+    {
+      "date": "2026-02-25",
+      "country": "CZ",
+      "source": "email",
+      "count": 8
+    },
+    {
+      "date": "2026-02-25",
+      "country": "HU",
+      "source": "social",
+      "count": 4
+    }
+  ],
+  "countries": {
+    "DE": "Germany",
+    "FR": "France",
+    "NL": "Netherlands",
+    "BE": "Belgium",
+    "IT": "Italy",
+    "ES": "Spain",
+    "PL": "Poland",
+    "PT": "Portugal",
+    "AT": "Austria",
+    "SE": "Sweden",
+    "DK": "Denmark",
+    "IE": "Ireland",
+    "GR": "Greece",
+    "RO": "Romania",
+    "CZ": "Czechia",
+    "HU": "Hungary"
+  }
+}
