@@ -249,13 +249,6 @@ function App() {
       <header className="dashboard-header">
         <h1>Petition dashboard</h1>
       </header>
-      <Router basename="/petition_dashboard">
-      <Switch>
-        <Route path="/" exact component={HomePage} />
-        <Route path="/some-other-page" component={OtherPage} />
-        {/* Add more routes as needed */}
-      </Switch>
-    </Router>
 
       <section className="petition-card" aria-label="Petition details">
         <h2>Petition details</h2>
